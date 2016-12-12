@@ -1,0 +1,6 @@
+{
+  "name": "FriendMatch",
+  "tagline": "Friend Match is a platform that finds you friends and suggests you events based on your hobbies.",
+  "body": "### Welcome to FriendMatch\r\nFriend Match is a platform that finds you friends and suggests you events based on your hobbies.\r\nThe platform lets you explore your skills which you earlier did not have company to pursue with.\r\n\r\nThe back-end is flask server written in python and uses mySQL database and the front-end is an Android application.\r\n\r\n### Source Code\r\nBack-End : https://github.com/DevipriyaSarkar/FriendMatch-Backend  \r\nFront-End : https://github.com/DevipriyaSarkar/FriendMatch-Frontend\r\n\r\n### Try it right away\r\nDownload the Android App from [here] (https://github.com/DevipriyaSarkar/FriendMatch-Frontend/releases)\r\n\r\n### About\r\nDBMS Project by [Devipriya Sarkar](https://github.com/DevipriyaSarkar) and [Namita Roy](https://github.com/namitaroy63)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
